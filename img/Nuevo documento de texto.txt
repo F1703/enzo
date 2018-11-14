@@ -1,0 +1,34 @@
+Motor	Monocilíndrico, DOHC, 4 tiempos, refrigerado por aire.
+Cilindrada	249 cm3
+Relación de compresión	9.3 : 1
+Alimentación	Carburador de 32 mm
+Encendido	CDI (Ignición por descarga capacitiva).
+Arranque	Eléctrico.
+Transmisión	6 velocidades.
+Suspensión delantera	Horquilla telescópica / 245 mm
+Suspen
+sión trasera	Pro-Link / 242 mm
+Freno delantero	A disco hidráulico / 240 mm
+Freno trasero	A tambor / 130 mm
+Neumático delantero	90/90 21/M/C 54S
+Neumático trasero	120/80 18/M/C 62S
+Dimensiones	2.147 mm largo x 845 mm ancho x 1.203 mm alto.
+Distancia entre ejes	1.416 mm
+Altura del asiento	840 mm
+Capacidad tanque de nafta	11.5 litros (reserva 3.7 litros)
+
+
+caracteristica1 = NUEVO DISEÑO Incorpora un nuevo diseño de gráficas en sus deflectores laterales en forma de V y suspensión trasera PRO-LINK que le otorga más tracción sobre cualquier tipo de terreno.
+
+caracteristica2 = NUEVO TABLERO tablero 100% digital.
+
+carteristica3 = MOTOR COMPROBADO Con un potente motor DOHC de 249 cm3, con doble árbol de levas refrigerado por aire y una caja de 6 velocidades que le permiten explotar al máximo su desempeño.
+
+caracteristica4 = AGILIDAD TODO TERRENO La dualidad de la nueva Honda XR 250 Tornado es una excelente elección para quienes buscan el equilibrio justo entre movilidad y nuevas experiencia.
+
+PLAN 30/70 pagando el 30 % osea 48.000 quedaria el restante 113.400 que sera en 12 cuotas 9.450 , valor el precio total de este plan tiene recargo de 20 % y su total es $162.000.
+PLAN 24 C 24 Cuotas de 6.750 con un 20% de interes, el precio total de este plan tiene recargo de 20 % y su total es $162.000.
+PLAN 100% Pagando en efectivo su valor total seria 135.000
+
+NOMBRE:DELGADO ENZO DAVID
+E-MAIL:enzo.david.delgado@gmail.com
